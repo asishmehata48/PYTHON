@@ -5,6 +5,7 @@ def quiz_game():
             "question": "What is the capital of France?",
             "options": ["a) Berlin", "b) Madrid", "c) Paris", "d) Rome"],
             "answer": "c"
+            
         },
         {
             "question": "Which planet is known as the Red Planet?",
