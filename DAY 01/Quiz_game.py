@@ -1,5 +1,5 @@
 def quiz_game():
-    #List of questions and answers
+    # List of questions and answers
     questions = [
         {
             "question": "What is the capital of France?",
