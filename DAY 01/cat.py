@@ -1,1 +1,1 @@
-print("Meow! Meow! I love Cat")
+print("Meow! Meow! I love Pussy")
