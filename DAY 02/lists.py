@@ -10,7 +10,6 @@ fruits.append("orange")
 # Removing an element
 fruits.remove("banana")
 
-
 # Looping through the list
 for fruit in fruits:
     print(fruit)
