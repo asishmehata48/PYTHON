@@ -1,5 +1,5 @@
 # boolean Literals
-is_pass = True
+is_pass = True  # true is literal and is_pass is boolean variable
 print(is_pass)
 
 # # character literals
@@ -23,5 +23,5 @@ print(is_pass)
 # print(alphabets)
 
 # # set literal
-# vowels = {'a', 'e', 'i' , 'o', 'u'} 
+# vowels = {'a', 'e', 'i' , 'o', 'u'}
 # print(vowels)
