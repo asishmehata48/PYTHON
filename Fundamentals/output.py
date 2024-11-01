@@ -19,3 +19,7 @@ Enjoy coding in Python!"""
 print(message)
 
 
+# Taking user input and displaying it
+name = input("Enter your name: ")
+print(f"Hello, {name}!")
+
