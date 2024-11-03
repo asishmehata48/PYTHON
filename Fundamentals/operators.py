@@ -2,6 +2,7 @@
 a = 10
 b = 3
 
+
 print("Arithmetic Operators:")
 print("Addition:", a + b)
 print("Subtraction:", a - b)
