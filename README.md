@@ -1,4 +1,4 @@
+<b><i>Topics</i> Covered</b>
 
-# PYTHON
-
-CODES THAT I HAVE DONE FOR PRACTICE.
+1. Fundamentals
+2. Flow control
