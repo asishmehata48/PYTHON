@@ -2,3 +2,4 @@
 
 1. Fundamentals
 2. Flow control
+3. Data types
